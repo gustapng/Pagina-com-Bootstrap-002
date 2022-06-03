@@ -140,7 +140,8 @@ footer .navbar-nav .nav-link:hover {
     }
 
     .imgrodape {
-        margin-bottom: 2em;
+        margin-bottom: 0.5em;
+        width: 25%;
     }
 
     .rodapelinks {
@@ -160,6 +161,34 @@ footer .navbar-nav .nav-link:hover {
     .col-md-6 {
         text-align: center;
         margin: 0 3em 0 3em;
+    }
+
+    .secao-2-alinhar {
+        display: none;
+    }
+
+    .secao-2-img {
+        margin-top: 3em;
+    }
+
+    .espaco-section {
+        margin-top: 10em;
+    }
+
+    .texto-formatado {
+        text-align: justify;
+    }
+
+    .texto-formatado h3 {
+        margin-top: 2em;
+    }
+
+    .titulo-formatado {
+        margin: 1em 0;
+    }
+
+    .display-3 {
+        font-size: 2em;
     }
 }
 
